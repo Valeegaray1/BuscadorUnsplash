@@ -1,4 +1,4 @@
-const accessKey = 't7Uvob5mz3cqkK0aBIRWTWhOoTT6Racwr9O5l2k-L7E'; // Your Unsplash access key here
+const accessKey = 't7Uvob5mz3cqkK0aBIRWTWhOoTT6Racwr9O5l2k-L7E'; 
 
 interface UnsplashResponse {
   results: UnsplashImage[];

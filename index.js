@@ -34,7 +34,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
         if (op[0] & 5) throw op[1]; return { value: op[0] ? op[1] : void 0, done: true };
     }
 };
-var accessKey = 't7Uvob5mz3cqkK0aBIRWTWhOoTT6Racwr9O5l2k-L7E'; // Your Unsplash access key here
+var accessKey = 't7Uvob5mz3cqkK0aBIRWTWhOoTT6Racwr9O5l2k-L7E'; 
 document.getElementById('searchButton').addEventListener('click', function () {
     var query = document.getElementById('searchInput').value;
     if (query.trim() !== '') {
